@@ -1,6 +1,6 @@
 {
   "tabela_usuario": "usuario",
-  "coluna_usuario": "nome",
+  "coluna_usuario": "nome_usuario",
   "tabela_plano": "plano",
   "coluna_plano": "nome_do_plano",
   "tabela_historico_de_reproducoes": "musicas_reproduzidas",
